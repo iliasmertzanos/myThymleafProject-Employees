@@ -21,5 +21,5 @@ To run the application, follow the steps below:
 App description
 ====================================================
 
-The app offers the user functions over UI to create, delete, update and read employee entities from the database using hibernate and user interfaces (see folder ``/mySpringCustomerApp/WebContent/WEB-INF/view``)
+The app offers the user functions over UI to create, delete, update and read employee entities from the database using hibernate and user interfaces (see folder ``/myThymleafProject-Employees/WebContent/WEB-INF/view``)
      
